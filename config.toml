@@ -1,0 +1,101 @@
+baseurl = "https://morganakarolini.adv.br"
+metaDataFormat = "yaml"
+title = "Morgana Karolini Miguel Pinto"
+theme = "blist"
+
+DefaultContentLanguage = "pt-br"
+DefaultContentLanguageInSubdir = true
+
+[languages]
+
+    [languages.pt-br]
+    weight = 1
+    contentDir = "content/pt-br"
+    languageName = "Portuguese"
+
+    [languages.pt-br.params]
+    introTitle = ""
+    introSubtitle = "Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil"
+    introPhoto = "/picture.png"
+    logo = "/logo.png"
+
+    [[languages.pt-br.menu.main]]
+    name = "Postagens"
+    url = "blog"
+    weight = 1
+
+    [[languages.pt-br.menu.main]]
+    name = "Sobre"
+    url = "page/sobre/"
+    weight = 2
+
+#    [[languages.pt-br.menu.main]]
+#    name = "Contato"
+#    url = "page/contato/"
+#    weight = 3
+
+[params]
+darkModeToggle = false
+enableSearch = true
+
+# Option to customize the search parameters of a page
+# Below are the supported options; Note that including entire content
+# may slowdown the loading of search results
+# Title of page is included by default
+searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+]
+
+# Custom copyright - optional
+copyright = "Copyright © 2023 - Morgana Karolini Miguel Pinto · Todos os direitos reservados"
+favicon = "/favicon-32x32.png"
+
+# Color for the intro details and social links block, not applicable for dark mode
+# Supported values: Any color from TailwindCSS default colors
+# Reference: https://tailwindcss.com/docs/customizing-colors
+ascentColor = "bg-white-950"
+
+# The page bundle that is shown on the front page
+frontBundle = "blog"
+
+# Used to hide the post metadata such as posted date, reading time and word count
+# Can be used at site level or page level
+hideMeta = false
+
+# To hide "Other languages" option if the post is available in multiple languages
+# Can be used at site level or page level
+hideOtherLanguages = false
+
+# Add support for Table of contents
+# Can be added to a page level also in markdown frontmatter
+toc = true
+
+# Hides the thumbnail in post view
+# Thumbnails in home and blog pages will still be shown
+# This setting can also be in page's markdown file
+hidePageThumbnail = false
+
+[[menu.main]]
+name = "About"
+url = "/about"
+
+[build]
+writeStats = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+[markup.highlight]
+style = "dracula"
+
+[markup.goldmark.renderer]
+# Enable to include inline HTML
+unsafe = true
