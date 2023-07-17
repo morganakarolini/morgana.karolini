@@ -1,36 +1,69 @@
-# Morgana Karolini
+# Documentação do Morgana.Karolini
 
-Welcome to the repository for my personal website, [morganakarolini.adv.br](https://morganakarolini.adv.br)!
-This project serves as a showcase for my work, blog posts, and contact information.
+## Visão Geral
 
-## Technologies Used
+Este projeto é um repositório pessoal mantido por Morgana Karolini. Ele contém os artigos e recursos relacionados ao
+site www.morganakarolini.adv.br.
 
-- [Hugo](https://gohugo.io/): The static site generator used to build this website.
-- [blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme): Blist is a clean and fast blog theme for your Hugo site.
+## Tabela de Conteúdos
 
-## Website Structure
+- [Utilizando GoHugo e o Tema Blist Hugo](#utilizando-gohugo-e-o-tema-blist-hugo)
+- [Licença](#licença)
 
-The website follows a simple structure:
+## Utilizando GoHugo e o Tema Blist Hugo
 
-- The content for the website, including blog posts and pages, can be found in the `content` directory.
-- Configuration files for Hugo are located in the root directory.
-- Static assets such as images, CSS, and JavaScript are stored in the `static` directory.
-- The theme configuration and templates are located in the `themes/hugo-coder` directory.
+Este projeto utiliza o GoHugo, um popular gerador de sites estáticos de código aberto, juntamente com o Tema Blist Hugo.
+O GoHugo permite construir sites estáticos de forma rápida e fácil, enquanto o Tema Blist Hugo oferece um layout bonito
+e responsivo para o seu site criado com Hugo.
 
-## Local Development
+Para utilizar o GoHugo e o [Tema Blist Hugo](https://github.com/apvarun/blist-hugo-theme):
 
-To run the website locally:
+1. Instale o GoHugo seguindo o [guia oficial de instalação](https://gohugo.io/getting-started/installing/).
+2. Crie um novo site do Hugo:
 
-1. Install Hugo by following the [official Hugo installation guide](https://gohugo.io/getting-started/installing/).
-2. Clone this repository: `git clone https://github.com/pauloeli/pauloeli.dev.git`.
-3. Navigate to the project directory: `cd pauloeli.dev`.
-4. Start the development server: `hugo server`.
-5. Open your browser and visit `http://localhost:1313` to see the website.
+```bash
+hugo new site mysite
+```
 
-## Contact
+3. Acesse o diretório do site recém-criado:
 
-If you have any questions or would like to get in touch, you can reach me via LinkedIn or email. Visit
-my [LinkedIn profile](https://www.linkedin.com/in/pauloheli/) or send an email
-to [pauloh.eli@outlook.com](mailto:pauloh.eli@outlook.com).
+```bash
+cd mysite
+```
 
-Thank you for your interest in my project!
+4. Inicialize um novo repositório Git:
+
+```bash
+git init
+```
+
+5. Adicione o Tema Blist Hugo como um submódulo do Git:
+
+```bash
+git submodule add https://github.com/apvarun/blist-hugo-theme.git themes/blist
+```
+
+6. Configure o tema no arquivo `config.toml` do seu site:
+
+```toml
+theme = "blist"
+```
+
+Você também pode personalizar outras configurações do Hugo e do tema neste arquivo.
+
+7. Crie conteúdo usando arquétipos do Hugo e a sintaxe Markdown.
+
+8. Construa seu site:
+
+```bash
+hugo
+```
+
+9. Seu site gerado estará disponível no diretório `public/`.
+
+Para obter instruções mais detalhadas sobre como usar o GoHugo e o Tema Blist Hugo, consulte a documentação respectiva.
+
+## Licença
+
+O conteúdo deste projeto está licenciado sob a [Licença MIT](LICENSE). Por favor, revise o arquivo de licença para obter
+mais informações sobre as permissões e limitações que ela oferece.
