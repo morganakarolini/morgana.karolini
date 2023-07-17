@@ -6,6 +6,8 @@ theme = "blist"
 DefaultContentLanguage = "pt-br"
 DefaultContentLanguageInSubdir = true
 
+googleAnalytics = 'G-2HT1J99P9N'
+
 [languages]
 
     [languages.pt-br]
