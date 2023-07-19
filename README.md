@@ -63,6 +63,12 @@ hugo
 
 Para obter instruções mais detalhadas sobre como usar o GoHugo e o Tema Blist Hugo, consulte a documentação respectiva.
 
+10. Para rodar localmente, execute o comando:
+
+```bash
+hugo server -D
+```
+
 ## Licença
 
 O conteúdo deste projeto está licenciado sob a [Licença MIT](LICENSE). Por favor, revise o arquivo de licença para obter
