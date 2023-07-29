@@ -29,9 +29,9 @@
     </div>
 </article>
 
-{{- partial "comments.html" . -}}
-
-{{- partial "social.html" . -}}
+{{ if .Params.showSocial }}
+    {{- partial "social.html" . -}}
+{{ end }}
 
 <script>
     function checkScreenWidth() {

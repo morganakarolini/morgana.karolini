@@ -69,5 +69,8 @@
 
   {{- partial "comments.html" . -}}
 
-  {{- partial "social.html" . -}}
+  {{ if .Params.showSocial }}
+    {{- partial "social.html" . -}}
+  {{ end }}
+
 {{ end }}

@@ -31,10 +31,10 @@ googleAnalytics = 'G-2HT1J99P9N'
     url = "page/sobre/"
     weight = 2
 
-#    [[languages.pt-br.menu.main]]
-#    name = "Contato"
-#    url = "page/contato/"
-#    weight = 3
+    [[languages.pt-br.menu.main]]
+    name = "Contato"
+    url = "page/contato/"
+    weight = 3
 
 [params]
 darkModeToggle = false
@@ -104,3 +104,19 @@ style = "dracula"
 [markup.goldmark.renderer]
 # Enable to include inline HTML
 unsafe = true
+
+[params.homepage.social]
+title = "Siga-me"
+description = "Siga-me nas redes sociais e fique por dentro de todas a novidades e postagens "
+
+    [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://www.linkedin.com/in/morgana-karolini/"
+
+    [[params.homepage.social.icons]]
+    website = "instagram"
+    url = "https://www.instagram.com/morganakarolini/"
+
+#    [[params.homepage.social.icons]]
+#    website = "facebook"
+#    url = "https://facebook.com"

@@ -6,6 +6,7 @@ permalink: "sobre"
 keywords: [ "sobre", "contato", "esucri", "previdenciario", "responsabilidade", "civil", "profissional" ]
 type: about
 layout: about
+showSocial: true
 ---
 
 Olá, sou **Morgana Karolini Miguel Pinto**, advogada formada em direito pela ESUCRI — Escola Superior de
