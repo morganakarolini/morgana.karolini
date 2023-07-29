@@ -117,6 +117,6 @@ description = "Siga-me nas redes sociais e fique por dentro de todas a novidades
     website = "instagram"
     url = "https://www.instagram.com/morganakarolini/"
 
-#    [[params.homepage.social.icons]]
-#    website = "facebook"
-#    url = "https://facebook.com"
+    [[params.homepage.social.icons]]
+    website = "facebook"
+    url = "https://www.facebook.com/profile.php?id=100088003846111"
