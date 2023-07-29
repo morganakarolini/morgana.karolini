@@ -66,7 +66,7 @@ Para obter instruções mais detalhadas sobre como usar o GoHugo e o Tema Blist 
 10. Para rodar localmente, execute o comando:
 
 ```bash
-hugo server -D
+hugo server --disableFastRender
 ```
 
 ## Licença

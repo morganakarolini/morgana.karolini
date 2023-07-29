@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "blockquote",
       "body",
       "button",
       "circle",
@@ -30,6 +31,7 @@
       "section",
       "span",
       "stop",
+      "strong",
       "svg",
       "title",
       "ul"

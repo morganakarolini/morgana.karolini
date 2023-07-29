@@ -40,6 +40,9 @@ googleAnalytics = 'G-2HT1J99P9N'
 darkModeToggle = false
 enableSearch = true
 
+# Autor image, used in about page.
+autorImagePath="/author.jpg"
+
 # Option to customize the search parameters of a page
 # Below are the supported options; Note that including entire content
 # may slowdown the loading of search results
