@@ -1,11 +1,11 @@
 ---
 author: Morgan Karolini Miguel Pinto
 title: Sobre mim
-date: 2023-07-16
+date: 2023-07-29
 permalink: "sobre"
-keywords: [ "sobre", "contato" ]
+keywords: [ "sobre", "contato", "esucri", "previdenciario", "responsabilidade", "civil", "profissional" ]
 type: about
-layout: custom
+layout: about
 ---
 
 Olá, sou **Morgana Karolini Miguel Pinto**, advogada formada em direito pela ESUCRI — Escola Superior de
@@ -19,7 +19,7 @@ Fórum da Comarca de Içara.
 Por conta dessas experiências, prestei o exame da ordem ainda durante a faculdade, aprovada em ambas as fases do exame
 da ordem na primeira tentativa.
 
-Logo sou advogada e atuo diretamente na área desde o ano de 2019, sob a inscrição de n.º 54.671 junto aos quadros da OAB
+Logo, sou advogada e atuo diretamente na área desde o ano de 2019, sob a inscrição de n.º 54.671 junto aos quadros da OAB
 Catarinense.
 
 Desde então, almejando ser uma profissional especializada e melhor qualificada, realizei as seguintes especializações:
