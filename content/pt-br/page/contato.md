@@ -3,7 +3,7 @@ author: Morgan Karolini Miguel Pinto
 title: Contato
 date: 2023-07-16
 permalink: "contato"
-keywords: [ "sobre", "contato" ]
+keywords: [ "sobre", "contato", "criciuma", "previdenciario", "responsabilidade", "civil", "profissional" ]
 type: contact
 layout: contact
 showSocial: true

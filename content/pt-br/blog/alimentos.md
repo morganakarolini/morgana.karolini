@@ -2,9 +2,10 @@
 author: "Morgana Karolini Miguel Pinto"
 title: "Alimentos"
 description: "Você sabia que são irrenunciáveis?"
-tags: [ "alimentos", "irrenunciavel" ]
 date: 2023-07-18
 permalink: "alimentos"
+tags: [ "alimentos", "irrenunciavel" ]
+keywords: [ "direito", "alimentos", "renunciar", "jurisprudencia" ]
 thumbnail: /blog/alimentos.jpeg
 ---
 

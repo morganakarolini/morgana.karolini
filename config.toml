@@ -43,6 +43,9 @@ enableSearch = true
 # Autor image, used in about page.
 autorImagePath="/author.jpg"
 
+# Generate a customized robots.txt
+enableRobotsTXT = true
+
 # Option to customize the search parameters of a page
 # Below are the supported options; Note that including entire content
 # may slowdown the loading of search results
@@ -54,7 +57,8 @@ searchKeys = [
     "summary",
     "content",
     "link",
-    "author"
+    "author",
+    "keywords"
 ]
 
 # Custom copyright - optional
@@ -96,14 +100,17 @@ writeStats = true
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
-# syntax highlight settings
 [markup]
 [markup.highlight]
 style = "dracula"
 
 [markup.goldmark.renderer]
-# Enable to include inline HTML
 unsafe = true
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [params.homepage.social]
 title = "Siga-me"

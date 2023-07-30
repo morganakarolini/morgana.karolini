@@ -1,10 +1,11 @@
 ---
 author: "Morgana Karolini Miguel Pinto"
 title: "Auxílio-reclusão"
-date: 2022-11-03
 description: "Você sabe como funciona?"
-tags: [ "reclusao", "auxilio" ]
+date: 2022-11-03
 permalink: "auxilio-reclusao"
+tags: [ "reclusao", "auxilio" ]
+keywords: [ "direito", "auxilio", "reclusao", "preso", "beneficio", "dependentes" ]
 thumbnail: /blog/auxilio-reclusao.jpeg
 ---
 

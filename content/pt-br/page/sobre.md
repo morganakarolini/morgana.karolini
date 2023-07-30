@@ -3,7 +3,7 @@ author: Morgan Karolini Miguel Pinto
 title: Sobre mim
 date: 2023-07-29
 permalink: "sobre"
-keywords: [ "sobre", "contato", "esucri", "previdenciario", "responsabilidade", "civil", "profissional" ]
+keywords: [ "sobre", "criciuma", "previdenciario", "responsabilidade", "civil", "profissional" ]
 type: about
 layout: about
 showSocial: true

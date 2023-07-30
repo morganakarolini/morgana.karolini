@@ -2,9 +2,10 @@
 author: "Morgana Karolini Miguel Pinto"
 title: "Divórcio Extrajudicial"
 description: "Quando é possível?"
-tags: [ "divorcio", "extrajudicial" ]
 date: 2022-12-05
 permalink: "divorcio-extrajudicial"
+tags: [ "divorcio", "extrajudicial" ]
+keywords: [ "direito", "divorcio", "extrajudicial", "casamento" ]
 thumbnail: /blog/divorcio-extrajudicial.jpeg
 ---
 

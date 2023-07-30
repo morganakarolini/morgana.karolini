@@ -1,10 +1,11 @@
 ---
 author: "Morgana Karolini Miguel Pinto"
 title: "Auxílio-acidente"
-date: 2022-11-24
 description: "O que é e como funciona"
-tags: [ "auxilio", "acidente" ]
+date: 2022-11-24
 permalink: "auxilio-acidente"
+tags: [ "auxilio", "acidente" ]
+keywords: [ "direito", "auxilio", "acidente", "trabalho", "indenizacao", "inss" ]
 thumbnail: /blog/auxilio-acidente.jpeg
 ---
 

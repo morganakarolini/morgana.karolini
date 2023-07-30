@@ -1,10 +1,11 @@
 ---
 author: "Hugo Authors"
 title: "Benefício Previdenciário sem Contribuição"
-date: 2022-10-25
 description: "É possível?"
-tags: [ "previdencia", "beneficio" ]
+date: 2022-10-25
 permalink: "beneficio-previdenciario"
+tags: [ "previdencia", "beneficio" ]
+keywords: [ "direito", "auxilio", "previdencia", "inss", "salário", "dependentes" ]
 thumbnail: /blog/beneficio-previdenciario.jpeg
 ---
 
