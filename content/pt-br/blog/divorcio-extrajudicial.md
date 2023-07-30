@@ -6,7 +6,7 @@ date: 2022-12-05
 permalink: "divorcio-extrajudicial"
 tags: [ "divorcio", "extrajudicial" ]
 keywords: [ "direito", "divorcio", "extrajudicial", "casamento" ]
-thumbnail: /blog/divorcio-extrajudicial.jpeg
+thumbnail: /blog/divorcio-extrajudicial.webp
 ---
 
 O divórcio extrajudicial é possível quando o casal não possui filhos comuns, menores ou incapazes, bem como quando a

@@ -6,7 +6,7 @@ date: 2023-07-18
 permalink: "alimentos"
 tags: [ "alimentos", "irrenunciavel" ]
 keywords: [ "direito", "alimentos", "renunciar", "jurisprudencia" ]
-thumbnail: /blog/alimentos.jpeg
+thumbnail: /blog/alimentos.webp
 ---
 
 A primeira coisa que se faz necessário mencionar é que os alimentos são irrenunciáveis, ou seja, pode o credor não

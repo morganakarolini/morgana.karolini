@@ -6,7 +6,7 @@ date: 2022-11-03
 permalink: "auxilio-reclusao"
 tags: [ "reclusao", "auxilio" ]
 keywords: [ "direito", "auxilio", "reclusao", "preso", "beneficio", "dependentes" ]
-thumbnail: /blog/auxilio-reclusao.jpeg
+thumbnail: /blog/auxilio-reclusao.webp
 ---
 
 Desmistificando o tema, é preciso esclarecer que o auxílio-reclusão é um benefício mensal devido aos DEPENDENTES do

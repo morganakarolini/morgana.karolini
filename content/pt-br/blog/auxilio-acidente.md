@@ -6,7 +6,7 @@ date: 2022-11-24
 permalink: "auxilio-acidente"
 tags: [ "auxilio", "acidente" ]
 keywords: [ "direito", "auxilio", "acidente", "trabalho", "indenizacao", "inss" ]
-thumbnail: /blog/auxilio-acidente.jpeg
+thumbnail: /blog/auxilio-acidente.webp
 ---
 
 O Auxílio-Acidente é um benefício de natureza indenizatória pago ao segurado do INSS quando, em decorrência de qualquer

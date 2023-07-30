@@ -6,7 +6,7 @@ date: 2022-10-25
 permalink: "beneficio-previdenciario"
 tags: [ "previdencia", "beneficio" ]
 keywords: [ "direito", "auxilio", "previdencia", "inss", "salário", "dependentes" ]
-thumbnail: /blog/beneficio-previdenciario.jpeg
+thumbnail: /blog/beneficio-previdenciario.webp
 ---
 
 Felizmente, existe uma possibilidade em que o indivíduo poderá receber um benefício mesmo sem nunca ter contribuído.

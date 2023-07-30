@@ -18,7 +18,7 @@ googleAnalytics = 'G-2HT1J99P9N'
     [languages.pt-br.params]
     introTitle = ""
     introSubtitle = "Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil"
-    introPhoto = "/picture.png"
+    introPhoto = "/company.webp"
     logo = "/logo.png"
 
     [[languages.pt-br.menu.main]]
@@ -41,7 +41,7 @@ darkModeToggle = false
 enableSearch = true
 
 # Autor image, used in about page.
-autorImagePath="/author.jpg"
+autorImagePath="/author.webp"
 
 # Generate a customized robots.txt
 enableRobotsTXT = true
