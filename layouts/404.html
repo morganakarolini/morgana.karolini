@@ -1,23 +1,24 @@
 {{ define "main" }}
 
 <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen">
-    <main class=flex-1>
-        <section class="bg-white-950 dark:bg-gray-900">
-            <div class="container max-w-screen-lg mx-auto px-6 py-12 grid md:grid-cols-2 gap-4 lg:gap-16 items-center">
-                <div><h1 class="text-4xl font-bold mb-4"></h1>
-                    <p class="font-light text-lg">
-                        Página não encontrada.
-                    </p>
-                    <br/>
-                    <p class="font-light text-lg">
-                        <a class="px-6 py-4 rounded-lg bg-gray-100 text-gray-800 hover:text-gray-900 hover:bg-gray-200 transition-colors"
-                            href="{{ .Site.BaseURL }}">Pagina inicial</a>
-                    </p>
-                </div>
-                <img class="rounded-lg shadow-sm" src=/picture.png alt="Morgana Karolini Miguel Pinto">
+<main class=flex-1>
+    <section class="bg-white-950 dark:bg-gray-900">
+        <div class="container max-w-screen-lg mx-auto px-6 py-12 grid md:grid-cols-2 gap-4 lg:gap-16 items-center">
+            <div><h1 class="text-4xl font-bold mb-4"></h1>
+                <p class="font-light text-lg">
+                    Oops, não foi possível encontrar esta página. Por gentileza, verifique se o endereço está correto ou
+                    se preferir acesse algum dos menus acima.
+                </p>
+                <br/>
+                <p class="font-light text-lg">
+                    <a class="px-6 py-4 rounded-lg bg-gray-100 text-gray-800 hover:text-gray-900 hover:bg-gray-200 transition-colors"
+                       href="{{ .Site.BaseURL }}" style="color: darkblue">Pagina inicial</a>
+                </p>
             </div>
-        </section>
-    </main>
+            <img class="rounded-lg shadow-sm" src=/picture.png alt="Morgana Karolini Miguel Pinto">
+        </div>
+    </section>
+</main>
 </body>
 
 {{ end }}
