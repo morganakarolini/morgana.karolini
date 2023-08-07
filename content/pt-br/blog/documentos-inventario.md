@@ -24,7 +24,7 @@ thumbnail: /blog/documentos-inventario.webp
             <li>Documentos pessoais dos herdeiros, viúvo meeiro ou cessionário.</li>
             <li>Documentos comprobatórios da propriedade do(s) bem(ns) deixado(s) pelo falecido ("de cujus").</li>
             <li>Documento do advogado assistente - Sim, em qualquer modalidade de inventário é obrigatória a presença de um advogado.</li>
-            <li>Petição requerente para abertura/lavratura do processo de inventário.</li>
+            <li>Petição requerendo a abertura/lavratura do processo de inventário.</li>
         </ul>
     </div>
 
