@@ -7,7 +7,6 @@ permalink: "pensao-alimenticia"
 tags: [ "pensao", "alimenticia", "processo", "alimentos", "filhos", "advogado" ]
 keywords: [ "pensao", "alimenticia", "processo", "alimentos", "filhos", "advogado" ]
 thumbnail: /blog/pensao-alimenticia.webp
-draft: true
 ---
 
 {{< rawhtml >}}
