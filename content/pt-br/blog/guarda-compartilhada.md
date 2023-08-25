@@ -2,12 +2,11 @@
 author: "Morgana Karolini Miguel Pinto"
 title: "Guarda Compartilhada"
 description: "Como funciona"
-date: 2023-08-15
+date: 2023-08-25
 permalink: "guarda-compartilhada"
 tags: [ "guarda", "compartilhada", "processo", "pais", "filhos", "advogado", "crianca", "adolescente" ]
 keywords: [ "guarda", "compartilhada", "processo", "pais", "filhos", "advogado", "crianca", "adolescente" ]
 thumbnail: /blog/guarda-compartilhada.webp
-draft: true
 ---
 
 {{< rawhtml >}}
