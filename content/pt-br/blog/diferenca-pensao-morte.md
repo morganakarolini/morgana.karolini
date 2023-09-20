@@ -1,6 +1,6 @@
 ---
 author: "Morgana Karolini Miguel Pinto"
-title: "Pensão por Morte"
+title: "Novas regras da Pensão por Morte - Parte II"
 description: "Diferenciação entre Pensão Acidentária e Não-acidentária"
 date: 2023-09-19
 permalink: "pensao-morte"
