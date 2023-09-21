@@ -23,7 +23,7 @@ thumbnail: /blog/pensao-morte-diferenca.webp
             utilizada como base para o cálculo da pensão por morte, o qual poderá ser de 60% ou 100%.
         </p>
         <p>
-            Segundo o artigo 26 da EC 106/2019, nos casos de aposentadoria por incapacidade permanente (invalidez) não acidentária, 
+            Segundo o artigo 26 da EC 103/2019, nos casos de aposentadoria por incapacidade permanente (invalidez) não acidentária, 
             o valor da aposentadoria será de 60% (sessenta por cento) da média aritmética simples dos salários de contribuição, com acréscimo de 
             2 (dois) pontos percentuais para cada ano de contribuição que exceder o tempo de 20 (vinte) anos de contribuição.
         </p>
