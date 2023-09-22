@@ -14,7 +14,7 @@ thumbnail: /blog/pensao-morte-diferenca.webp
     <div style="text-align:justify;">
         <p>
             Continuando o tópico sobre as mudanças na pensão por morte, abordaremos agora a diferenciação entre a pensão por morte 
-            decorrente de acidente de trabalho e a pensão por morte não acidentária; nos casos em que o segurado ainda não era aposentado 
+            decorrente de acidente de trabalho e a pensão por morte não acidentária nos casos em que o segurado ainda não era aposentado 
             na data do óbito, uma vez que, nesse caso, <u>a pensão será calculada sobre a aposentadoria por incapacidade permanente a 
             que o segurado teria direito na data do seu óbito</u>.
         </p>
@@ -60,7 +60,7 @@ thumbnail: /blog/pensao-morte-diferenca.webp
         </ul>
         <p>
             Exemplificando: se João faleceu por conta de um acidente de trabalho, a renda da aposentadoria por incapacidade a que teria direito da 
-            data de seu óbito será de 100% da média de seus salários de contribuição, enquanto, se João tivesse falecido por conta de outra situação 
+            data de seu óbito será de 100% da média de seus salários de contribuição, enquanto que, se João tivesse falecido por conta de outra situação 
             que não se enquadrasse como um acidente de trabalho, a renda de sua aposentadoria por invalidez seria de 60% da média de seus salários de contribuição.
         </p>
         <p>
@@ -69,7 +69,7 @@ thumbnail: /blog/pensao-morte-diferenca.webp
         </p>
         <p>
             Assim, no caso de haver apenas um único dependente e o óbito não for acidentário, o valor da pensão será de 60% de 60%, 
-            enquanto, no caso de o óbito ser acidentário, o valor da pensão será de 60% de 100%.
+            enquanto que, no caso de o óbito ser acidentário, o valor da pensão será de 60% de 100%.
         </p>
         <p>
             Concluímos, portanto, que atualmente há a necessidade de se comprovar a causa do óbito para fins de se obter 
