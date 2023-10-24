@@ -18,21 +18,25 @@ googleAnalytics = 'G-2HT1J99P9N'
     [languages.pt-br.params]
     introTitle = ""
     introSubtitle = "Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil"
+    description = "Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil Criciúma"
     introPhoto = "/company.webp"
     logo = "/logo.png"
 
     [[languages.pt-br.menu.main]]
     name = "Postagens"
+    description = "Postagens de Morgana Karolini Miguel Pinto, Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil, Criciúma"
     url = "blog"
     weight = 1
 
     [[languages.pt-br.menu.main]]
     name = "Sobre"
+    description = "Sobre Morgana Karolini Miguel Pinto, Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil, Criciúma, Capacitação"
     url = "page/sobre/"
     weight = 2
 
     [[languages.pt-br.menu.main]]
     name = "Contato"
+    description = "Sobre Morgana Karolini Miguel Pinto, Especialista em Direito e Processo Previdenciário e Direito Contratual e Responsabilidade Civil, Criciúma, Contato"
     url = "page/contato/"
     weight = 3
 
