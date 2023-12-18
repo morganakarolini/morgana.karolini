@@ -36,7 +36,7 @@ thumbnail: /blog/funcao-contrato-social.webp
         <p>
             Isso mesmo, após um primeiro momento, em que se sustentou que a consequência seria a ineficácia, ao argumento de que a 
             função social não está arrolada no artigo 104 do Código Civil como requisito de validade, alcançou-se o entendimento 
-            majoritário de que a consequência é a nulidade, posto trata-se de preceito de ordem pública.
+            majoritário de que a consequência é a nulidade, posto tratar-se de preceito de ordem pública.
         </p>
     </div>
 
